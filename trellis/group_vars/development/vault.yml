@@ -5,6 +5,6 @@ vault_mysql_root_password: B3LkKUpcZVx4bpLXKXpiez%R
 # Note: the site name (`example.com`) must match up with the site name in the above file.
 vault_wordpress_sites:
   example.com:
-    admin_password: example
+    admin_password: password
     env:
-      db_password: example
+      db_password: password
